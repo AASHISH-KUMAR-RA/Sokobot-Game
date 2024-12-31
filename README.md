@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/85807431/194949704-3d8c9ced-650f-4fdc-
 
 1. Clone the repo
 ``` 
-git clone https://github.com/rumbleFTW/sokobot.git
+git clone https://github.com/AASHISH-KUMAR-RA/sokobot.git
 ```
 2. Navigate to folder
 ```
